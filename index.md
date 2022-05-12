@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## TrajGen: Generating Realistic and Diverse Trajectories with Reactive and Feasible Agent Behaviors for Autonomous Driving
 
-You can use the [editor on GitHub](https://github.com/FAGF/TrajGen.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Qichao Zhang, Yinfeng Gao, Yikang Zhang, Youtian Guo, Dawei Ding, Yunpeng Wang, Peng Sun, Dongbin Zhao
+
+ [Paper](https://arxiv.org/pdf/2203.16792.pdf) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
